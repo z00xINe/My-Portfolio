@@ -308,7 +308,7 @@ button {
 .hero-content {
     text-align: center;
     z-index: 10;
-    max-width: 800px;
+    max-width: 1000px;
     animation: fadeInUp 1s ease-out;
 }
 
